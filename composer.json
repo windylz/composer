@@ -1,0 +1,16 @@
+{
+    "name": "windylz/composer",
+    "description": "a test composer por\b\b",
+    "type": "project",
+    "require": {
+        "houdunwang/hdphp": "*"
+    },
+    "license": "Mit",
+    "authors": [
+        {
+            "name": "17771615219",
+            "email": "345340585@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
